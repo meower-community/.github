@@ -20,6 +20,8 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 
 [UltimateBot](https://github.com/MeowerBots/UltimateBot-Backend) - Created by [@Bloctans](https://github.com/Bloctans)
 
+[Octavia](https://github.com/MeowerBots/Octavia) - Created by [@MikeDEV](https://github.com/MikeDev101)
+
 ## 📚 Our libraries
 [MeowerBot.py](https://github.com/MeowerBots/MeowerBot.py) - Created by [@showierdata9978](https://github.com/showierdata9978)
 
