@@ -29,6 +29,8 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 
 [MeowerBot Web](https://github.com/MeowerBots/meowerbot-web) - Created by [@Voxalice](https://github.com/Voxalice)
 
+[MWrapper](https://github.com/MeowerBots/jaxon_bots/blob/main/wrapper.cjs) - Created by [@jaxonbaxon](https://github.com/silvxrcat)
+
 [MeowerBot Scratch](https://github.com/MeowerBots/Meowerbot-Scratch/commits/main) - Created by [@Bloctans](https://github.com/Bloctans)
 
 ## ✉️ Contact Us
