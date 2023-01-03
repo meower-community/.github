@@ -22,6 +22,8 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 
 [Octavia](https://github.com/MeowerBots/Octavia) - Created by [@MikeDEV](https://github.com/MikeDev101)
 
+[Amethyst](https://github.com/MeowerBots/Amethyst) - Created by [@ArrowAced](https://github.com/ArrowAced)
+
 ## 📚 Our libraries
 [MeowerBot.py](https://github.com/MeowerBots/MeowerBot.py) - Created by [@showierdata9978](https://github.com/showierdata9978)
 
