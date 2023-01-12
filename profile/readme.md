@@ -39,3 +39,5 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 
 ## ✉️ Contact Us
 Looking to bring your Meower bot or library to our org? Contact [@showierdata9978](https://github.com/showierdata9978)!
+
+> ** :warning: ** Bot applications are currently closed. although this does not apply to inventations by [@showierdata9978](https://github.com/showierdata9978)
