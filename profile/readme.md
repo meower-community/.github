@@ -26,6 +26,10 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 
 [MusicBot](https://github.com/MeowerBots/MusicBot) - Created by [@mdwalters](https://github.com/mdwalters)
 
+[MDWalters125](https://github.com/MeowerBots/MDWalters125) - Created by [@mdwalters](https://github.com/mdwalters)
+
+[FeedsBot](https://github.com/MeowerBots/FeedsBot) - Created by [@mdwalters](https://github.com/mdwalters)
+
 ## 📚 Our libraries
 [MeowerBot.py](https://github.com/MeowerBots/MeowerBot.py) - Created by [@showierdata9978](https://github.com/showierdata9978)
 
