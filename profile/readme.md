@@ -49,3 +49,6 @@ Looking to bring your Meower bot or library to our org? Contact [@showierdata997
 
 1. Nothing in home, except a join command for its GC, and a reminder for ppl.
    This is bypassed if your bot has an approval to be in home by a person on the Council  
+
+2. Anything in this org HAS TO BE A MEOWERBOT. OR MEOWERBOT LIB. Otherwise it will be deleted, unless you have explicit permision from @showierdata9978
+   <br> it WILL Get deleted after 24h after an issue is posted about it.
