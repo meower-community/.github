@@ -30,6 +30,8 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 
 [FeedsBot](https://github.com/MeowerBots/FeedsBot) - Created by [@mdwalters](https://github.com/mdwalters)
 
+[MeowyMod](https://github.com/MeowerBots/MeowyMod) - Created by [@MikeDEV](https://github.com/mikedev101)
+
 ## 📚 Our libraries
 [MeowerBot.py](https://github.com/MeowerBots/MeowerBot.py) - Created by [@showierdata9978](https://github.com/showierdata9978)
 
