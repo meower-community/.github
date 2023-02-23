@@ -47,12 +47,25 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 Looking to bring your Meower bot or library to our org? Contact [@showierdata9978](https://github.com/showierdata9978)!
 
 
+## General rules for this org
+
+
+1. Anything in this org HAS TO BE A MEOWERBOT. OR MEOWERBOT LIB. Otherwise it will be deleted, unless you have explicit permision from @showierdata9978
+2. All rules have 48h to be fixed and published
+
 ## Rules For bots in this ORG
 
 1. Nothing in home, except a join command for its GC, and a reminder for ppl.
    This is bypassed if your bot has an approval to be in home by a person on the Council  
 
-2. Anything in this org HAS TO BE A MEOWERBOT. OR MEOWERBOT LIB. Otherwise it will be deleted, unless you have explicit permision from @showierdata9978
-   <br> it WILL Get deleted after 24h after an issue is posted about it.
+3. Bots should be compliant with the @ mentions rule. (@{username} {command} {args})
 
-3. Bots should be compliant with the @ mentions rule.
+## Rules for bot libs
+
+1. Must allow bot to be complient with the @ mentions rule. But allow the user to change the prefix (in the case of Webhooks @HookMod)
+2. Must support all offical bridges (Discord, Revolower, revolt (Revolower Unstable))
+3. Should expose Websocket object to all users PUBLICLY.
+
+ 
+These rules will be inforced by @showierdata9978, and the Council of Meowers. 
+
