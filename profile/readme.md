@@ -54,3 +54,5 @@ Looking to bring your Meower bot or library to our org? Contact [@showierdata997
 
 2. Anything in this org HAS TO BE A MEOWERBOT. OR MEOWERBOT LIB. Otherwise it will be deleted, unless you have explicit permision from @showierdata9978
    <br> it WILL Get deleted after 24h after an issue is posted about it.
+
+3. Bots should be compliant with the @ mentions rule.
