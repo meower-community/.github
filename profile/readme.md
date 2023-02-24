@@ -63,7 +63,7 @@ Looking to bring your Meower bot or library to our org? Contact [@showierdata997
 ## Rules for bot libs
 
 1. Must allow bot to be complient with the @ mentions rule. But allow the user to change the prefix (in the case of Webhooks @HookMod)
-2. Must support all offical bridges (Discord, Revolower, revolt (Revolower Unstable))
+2. Must support all offical bridges (Discord, Revower, revolt (Revower Unstable))
 3. Should expose Websocket object to all users PUBLICLY.
 
  
