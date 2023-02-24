@@ -44,28 +44,25 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 [MeowerBot Scratch](https://github.com/MeowerBots/Meowerbot-Scratch/commits/main) - Created by [@Bloctans](https://github.com/Bloctans)
 
 ## ✉️ Contact Us
-Looking to bring your Meower bot or library to our org? Contact [@showierdata9978](https://github.com/showierdata9978)!
+Looking to bring your Meower bot or library to our organisation? Contact [@showierdata9978](https://github.com/showierdata9978)!
 
 
-## General rules for this org
+## 📖 General Rules
 
+1. Absolutely anything and everything in this organisation must be a Meower Bot or Bot library, unless you have permission from [@showierdata9978](https://github.com/showierdata9978)
+2. All bots and bot libraries must be updated to follow new Meower Policies within 48 hours
 
-1. Anything in this org HAS TO BE A MEOWERBOT. OR MEOWERBOT LIB. Otherwise it will be deleted, unless you have explicit permision from @showierdata9978
-2. All rules have 48h to be fixed and published
+## 🤖 Bot Rules
 
-## Rules For bots in this ORG
+1. Bots should not post in home. Exceptions for this are invites to a bot group chat or if you have permission from the Meower Council.
+2. Bots should always follow the @ mention rule, meaning replacing prefixes and words with @{bot username}.
 
-1. Nothing in home, except a join command for its GC, and a reminder for ppl.
-   This is bypassed if your bot has an approval to be in home by a person on the Council  
+## 📚 Bot Library Rules
 
-3. Bots should be compliant with the @ mentions rule. (@{username} {command} {args})
-
-## Rules for bot libs
-
-1. Must allow bot to be complient with the @ mentions rule. But allow the user to change the prefix (in the case of Webhooks @HookMod)
-2. Must support all offical bridges (Discord, Revower, revolt (Revower Unstable))
-3. Should expose Websocket object to all users PUBLICLY.
+1. All bot libraries must use @(bot username) as the prefix, no substitutes.
+2. All bot libraries must support all official bridges, Discord (@Discord), Revower (@Revower) and Revower Unstable (@revolt).
+3. All bot libraries should expose websocket objects to all users publically.
 
  
-These rules will be inforced by @showierdata9978, and the Council of Meowers. 
+These rules will be enforced by @showierdata9978, and the Council of Meowers. 
 
