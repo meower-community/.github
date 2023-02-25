@@ -59,7 +59,7 @@ Looking to bring your Meower bot or library to our organisation? Contact [@showi
 
 ## 📚 Bot Library Rules
 
-1. All bot libraries must use @(bot username) as the prefix, no substitutes.
+1. All bot libraries must use @(bot username) as the prefix, but may allow changing the prefix for webhooks etc.
 2. All bot libraries must support all official bridges, Discord (@Discord), Revower (@Revower) and Revower Unstable (@revolt).
 3. All bot libraries should expose websocket objects to all users publically.
 
