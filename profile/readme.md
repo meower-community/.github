@@ -50,7 +50,7 @@ Looking to bring your Meower bot or library to our organisation? Contact [@showi
 ## 📖 General Rules
 
 1. Absolutely anything and everything in this organisation must be a Meower Bot or Bot library, unless you have permission from [@showierdata9978](https://github.com/showierdata9978)
-2. All bots and bot libraries must be updated to follow new Meower Policies within 48 hours
+2. All bots and bot libraries must be updated to follow new Meower Policies within 2 weeks 
 
 ## 🤖 Bot Rules
 
