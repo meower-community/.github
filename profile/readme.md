@@ -54,7 +54,8 @@ Looking to bring your Meower bot or library to our organisation? Contact [@showi
 
 ## 🤖 Bot Rules
 
-1. Bots should not post in home. Exceptions for this are invites to a bot group chat or if you have permission from the Meower Council.
+1. Bots should not post in home. There are 3 exceptions to this rule: invites to a bot group chat, if you have permission from the Meower Council, and commands that send less then 4 lines. 
+
 2. Bots should always follow the @ mention rule, meaning replacing prefixes and words with @{bot username}.
 
 ## 📚 Bot Library Rules
