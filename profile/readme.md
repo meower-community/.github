@@ -24,8 +24,6 @@ Our goal is to help unify all Meower bots and libraries into one open source Git
 
 [Amethyst](https://github.com/MeowerBots/Amethyst) - Created by [@ArrowAced](https://github.com/ArrowAced)
 
-[MusicBot](https://github.com/MeowerBots/MusicBot) - Created by [@mdwalters](https://github.com/mdwalters)
-
 [MDWalters125](https://github.com/MeowerBots/MDWalters125) - Created by [@mdwalters](https://github.com/mdwalters)
 
 [FeedsBot](https://github.com/MeowerBots/FeedsBot) - Created by [@mdwalters](https://github.com/mdwalters)
