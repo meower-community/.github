@@ -42,8 +42,7 @@ Our goal is to help organize the projects created by the Meower community.
 [MeowerBot Scratch](https://github.com/MeowerBots/Meowerbot-Scratch/commits/main) - Created by [@Bloctans](https://github.com/Bloctans)
 
 ## ✉️ Contact Us
-Looking to bring your Meower bot or library to our organisation? Contact [@showierdata9978](https://github.com/showierdata9978)!
-
+Looking to bring your Meower bot or library to our organisation? Contact [@showierdata9978](https://github.com/showierdata9978) or support@meower.org!
 
 ## 📖 General Rules
 
