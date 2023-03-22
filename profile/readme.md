@@ -1,6 +1,6 @@
-# 👋 Welcome to MeowerBots!
+# 👋 Welcome to the Meower Community!
 <!-- Change organisation to organization if you want -->
-Our goal is to help unify all Meower bots and libraries into one open source GitHub organisation.
+Our goal is to help organize the projects created by the Meower community.
 
 ## 👨‍👩‍👧‍👦 Our team
 [showierdata9978](https://github.com/showierdata9978) - Creator of MeowerBots
@@ -47,10 +47,10 @@ Looking to bring your Meower bot or library to our organisation? Contact [@showi
 
 ## 📖 General Rules
 
-1. Absolutely anything and everything in this organisation must be a Meower Bot or Bot library, unless you have permission from [@showierdata9978](https://github.com/showierdata9978)
-2. All bots and bot libraries must be updated to follow new Meower Policies within 2 weeks 
+1. Absolutely anything and everything in this organisation must be related to Meower.
+2. All bots and bot libraries must be updated to follow all Meower policies.
 
-## 🤖 Bot Rules
+## 🤖 Bot Policies
 
 1. Bots should not post in home. There are 3 exceptions to this rule: invites to a bot group chat, if you have permission from the Meower Council, and commands that send less then 4 lines. 
 
@@ -62,6 +62,4 @@ Looking to bring your Meower bot or library to our organisation? Contact [@showi
 2. All bot libraries must support all official bridges, Discord (@Discord), Revower (@Revower) and Revower Unstable (@revolt).
 3. All bot libraries should expose websocket objects to all users publically.
 
- 
 These rules will be enforced by @showierdata9978, and the Council of Meowers. 
-
