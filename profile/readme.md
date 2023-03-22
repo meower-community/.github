@@ -9,6 +9,9 @@ Our goal is to help organize the projects created by the Meower community.
 
 [Everyone else](https://github.com/orgs/MeowerBots/people?query=role%3Amember) - Contributors and idea makers
 
+## 🕹️ Our games
+Coming soon!
+
 ## 🤖 Our bots
 [jaxon_bots](https://github.com/MeowerBots/jaxon_bots) - Created by [@jaxonbaxon](https://github.com/jaxonbaxon)
 
