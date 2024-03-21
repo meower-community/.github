@@ -36,7 +36,7 @@ Coming soon!
 ## 📚 Our libraries
 [MeowerBot.py](https://github.com/MeowerBots/MeowerBot.py) - Created by [@showierdata9978](https://github.com/showierdata9978)
 
-[MeowerBot.js](https://github.com/MeowerBots/MeowerBot.js) - Created by [@mdwalters](https://github.com/mdwalters), maintained by Created by [@showierdata9978](https://github.com/showierdata9978)
+[MeowerBot.js](https://github.com/MeowerBots/MeowerBot.js) - Created by [@mdwalters](https://github.com/mdwalters), maintained by [@showierdata9978](https://github.com/showierdata9978)
 
 
 [MeowerBot Web](https://github.com/MeowerBots/meowerbot-web) - Created by [@Voxalice](https://github.com/Voxalice)
